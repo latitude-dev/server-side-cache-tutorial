@@ -66,4 +66,4 @@ The application will display the Pokémon data fetched from the server, utilizin
 
 ## Tutorial
 
-For more information about this project, check out the [tutorial](https://github.com/latitude-dev/server-side-cache-tutorial).
+For more information about this project, check out the [tutorial](https://blog.latitude.so/expressjs-react-server-side-cache/).
